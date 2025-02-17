@@ -1,0 +1,10 @@
+langchain-core 
+langchain-openai 
+langchain-community 
+pymongo 
+transformers 
+sentence_transformers 
+faiss-cpu 
+rank-bm25 
+pyvi
+streamlit
