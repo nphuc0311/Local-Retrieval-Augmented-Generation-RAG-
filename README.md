@@ -35,12 +35,6 @@ Welcome to **Kicap Store Chatbot**, a Local Retrieval-Augmented Generation (RAG)
 - MongoDB
 - FAISS
 
-### 📥 Clone the Repository
-```bash
-git clone https://github.com/yourusername/kicap-store-chatbot.git
-cd kicap-store-chatbot
-```
-
 ### 📦 Install Dependencies
 ```bash
 pip install -r requirements.txt
@@ -56,19 +50,10 @@ OPENAI_API_KEY="your-openai-api-key"
 ---
 
 ## 🚀 Usage
-
-### 1️⃣ **Prepare Data and Build Database**
-Place your product CSV file (e.g., `products.csv`) in the project directory and run:
-```bash
-python database.py --csv-path products.csv
-```
-
-### 2️⃣ **Run the Chatbot**
+### **Run the Chatbot**
 ```bash
 streamlit run app.py
 ```
-Access the chatbot interface at `http://localhost:8501`.
-
 ---
 
 ## 🧩 How It Works
