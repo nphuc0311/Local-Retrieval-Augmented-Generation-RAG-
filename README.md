@@ -82,16 +82,6 @@ streamlit run app.py
 
 ---
 
-## 📊 Example Conversation
-
-**User:** Tôi muốn mua bàn phím cơ, gợi ý giúp tôi một sản phẩm phù hợp.  
-**Bot:** Bạn có thể tham khảo bàn phím cơ Kicap Pro với switch Outemu, hỗ trợ hotswap và khung CNC.  
-
-**User:** Chính sách đổi trả như thế nào?  
-**Bot:** Bạn có thể đổi trả trong vòng 7 ngày nếu sản phẩm còn nguyên vẹn.  
-
----
-
 ## 📝 Future Improvements
 - [ ] Add a **Recommendation System** based on user preferences.  
 - [ ] Implement a **Feedback Loop** to improve responses.  
